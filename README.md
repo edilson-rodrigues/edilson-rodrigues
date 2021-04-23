@@ -11,7 +11,7 @@
 
 - Trabalho com desenvolvimento desde 2019, focando cada vez mais em aprender e crescer, sou apaixonado por tecnologia e ficção desde criança.
 
-### sobre meus XPs 
+### Level Ups 🆙
 
 - 📫 Trilhas e Cursos
 
@@ -23,7 +23,7 @@
 
 * Curso [The Ultimate Redux Course](https://codewithmosh.com/p/ultimate-redux) com o Instrutor Mosh.
 
-* Atualmente (23/04/2021) do bootcamp da Rocketseat o Ignite. A trilha de ReactJs traz muito conteúdo específico da biblioteca, abordando o uso de diversas outras ferramentas comumente usadas em todo ecossistema front-end. Trazendo também conteúdos sobre Next.js, que ganha cada vez mais espaço nas aplicações desenvolvidas utilizando o ReactJs hoje em dia.
+* Em andamento: Bootcamp da Rocketseat o Ignite. A trilha de ReactJs traz muito conteúdo específico da biblioteca, abordando o uso de diversas outras ferramentas comumente usadas em todo ecossistema front-end. Trazendo também conteúdos sobre Next.js, que ganha cada vez mais espaço nas aplicações desenvolvidas utilizando o ReactJs hoje em dia.
 
 * Participei das trilhas, NLW a [Next Level Week](https://nextlevelweek.com/) da [Rockectseat](https://rocketseat.com.br/) desde a sua segunda edição, aprendendo ReactJs e na ultima me atualizando com o FLutter.
 
