@@ -5,7 +5,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edarodrigs)](https://www.linkedin.com/in/edarodrigs/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edarodrigs)](https://twitter.com/edarodrigs)
 ![GitHub followers](https://img.shields.io/github/followers/edilson-rodrigues?style=flat-square)
-![Twitter Follow](https://img.shields.io/twitter/follow/edarodrigs?style=flat-square)
 
 - 😁 Eu sou Edilson Rodrigues, Desenvolvedor Front-end | Mobile, sim! Isso mesmo, gosto muito dos dois.
 
