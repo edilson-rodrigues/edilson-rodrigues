@@ -8,7 +8,7 @@
 - 💬 Sou um desenvolvedor entusiasta. 
 - 😍 *minha linguagem e framework preferido*: **Dart** e **Flutter**.
 - 🔭 Atualmente estou trabalhando profissionalmente na [CI&T](https://ciandt.com/).
-- 🌱 Estou em constantemente em busca de mais aprendizado.
+- 🌱 Estou constantemente em busca de mais aprendizado.
 - ✨ Objetivo como um todo, mudar a vida das pessoas.
 ---
 - 🆙 Trilhas e Cursos
