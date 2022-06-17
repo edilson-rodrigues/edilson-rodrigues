@@ -1,54 +1,45 @@
-### Olá 👋
+<p>
+		<img src="https://readme-typing-svg.herokuapp.com/?size=24&background=45E5FF00&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+there!" alt="Edilson Welcome Message">
+</p>
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edarodrigs)](https://www.linkedin.com/in/edarodrigs/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/edarodrigs)](https://twitter.com/edarodrigs)
-![GitHub followers](https://img.shields.io/github/followers/edilson-rodrigues?style=flat-square)
+- 😁 Eu sou Edilson Rodrigues. 
+- 💬 Sou um desenvolvedor entusiasta. 
+- 😍 *minha linguagem e framework preferido*: **Dart** e **Flutter**.
+- 🔭 Atualmente estou trabalhando profissionalmente na [CI&T](https://ciandt.com/).
+- 🌱 Estou em constantemente em busca de mais aprendizado.
+- ✨ Objetivo como um todo, mudar a vida das pessoas.
+---
+- 🆙 Trilhas e Cursos
 
-- 😁 Eu sou Edilson Rodrigues, Desenvolvedor Front-end | Mobile, sim! Isso mesmo, gosto muito dos dois.
-
-- Trabalho com desenvolvimento desde 2019, focando cada vez mais em aprender e crescer, sou apaixonado por tecnologia e ficção desde criança.
-
-### Level Ups 🆙
-
-- 📫 Trilhas e Cursos
-
-  `Flutter, Dart, ReactJs, NextJs, Styled Component, Material Ui, Bootstrap, Sass, Redux, Typescript e Javascript`
+  - `Flutter, Dart.`
+  - `ReactJs, NextJs, Redux.` 
+  - `Styled Component, Material Ui.`
+  - `Bootstrap, Sass.`
+  - `Typescript, Javascript.`
+  - `GCP, AppScript, DataStudio, BigQuery, Firebase.`
+  - `PHP, MySQL, PostgreSQL.`
 
 * Bootcamp The App Brewery - [The Complete 2021 Flutter Development Bootcamp with Dart](https://www.appbrewery.co/p/flutter-development-bootcamp-with-dart), foram mais de 23 horas de conteúdo de aprendizado que constrói o conhecimento de programação ao mesmo tempo em que faz aplicativos do mundo real.
   Tecnologias aprendidas Flutter e Dart.
-  Instrutora Angela Yu
+  Instrutora Angela Yu.
 
 * Curso [The Ultimate Redux Course](https://codewithmosh.com/p/ultimate-redux) com o Instrutor Mosh.
 
-* Em andamento: Bootcamp da Rocketseat o Ignite. A trilha de ReactJs traz muito conteúdo específico da biblioteca, abordando o uso de diversas outras ferramentas comumente usadas em todo ecossistema front-end. Trazendo também conteúdos sobre Next.js, que ganha cada vez mais espaço nas aplicações desenvolvidas utilizando o ReactJs hoje em dia.
-
-* Participei das trilhas, NLW a [Next Level Week](https://nextlevelweek.com/) da [Rockectseat](https://rocketseat.com.br/) desde a sua segunda edição, aprendendo ReactJs e na ultima me atualizando com o FLutter.
-
-- [saber mais](https://olha.la/edarodrigs)
+* Participei das trilhas [Next Level Week](https://nextlevelweek.com/) da [Rockectseat](https://rocketseat.com.br/) a partir sua segunda edição, aprendendo ReactJs e na ultima me atualizando com o FLutter.
 
 <br>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=edilson-rodrigues&layout=compact)](https://github.com/edilson-rodrigues/github-readme-stats)
-
+### 📫 Como chegar até mim [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edarodrigs)](https://www.linkedin.com/in/edarodrigs/) ![GitHub followers](https://img.shields.io/github/followers/edilson-rodrigues?style=flat-square)
+---
+<br>
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=edilson-rodrigues&show_icons=true&count_private=true&hide_title=false&theme=dracula" alt="Ed Github Stats" />
 <br>
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=edilson-rodrigues&show_icons=true&count_private=true" />
-</div>
+<img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=edilson-rodrigues&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Ed GitHub Streaks" />
+<br>
 
-<!--
-**edilson-rodrigues/edilson-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edilson-rodrigues&layout=compact&theme=dracula" alt="Ed Most Used Languages">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
